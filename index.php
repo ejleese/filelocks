@@ -67,8 +67,6 @@ $(document).ready(function()
 <body>
 
 <h2>WHO'S IN MY FILE?! (<?php echo $PFLOC;?> filePro)</h2>
-<s>Note: Does not work on rtnproduct, tbom, or pl_recii_hed (too large)</s>
-<br>
 Even more New and Improved! (But still not particularly safe for children)
 <br>
 

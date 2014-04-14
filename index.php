@@ -84,10 +84,6 @@ Enter the name of a filePro file in the box above and hit Enter to see if there 
 OR, click on one of the common searches below.
 </div>
 
-<!<div id="userinfo" style="width:200px; float:left; padding-left:10px">
-<!Click on a username for more info, if available
-<!</div>
-
 <br>
 <div style="clear:left">
 <br>

@@ -17,13 +17,17 @@ function sanitize(inVal,event)
 
 function checkforlocks(inVal)
 {
-	document.getElementById("userinfo").innerHTML="Click on a username for more info";
+	//document.getElementById("userinfo").innerHTML="Click on a username for more info";
 
   var http = getHTTPObject();  // create the http object
   http.onreadystatechange = function()
   {
     if (http.readyState == 4)
     {
+			document.getElementById("info").innerHTML=http.responseText;
+			return;
+			//refactored to not need the below part. will remove shortly
+
       results = http.responseText.split(","); // split delimited response in
 			{
 

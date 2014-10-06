@@ -68,6 +68,7 @@ $(document).ready(function()
 </head>
 <body>
 
+<a href="https://intranet.borisch.local/getlocks/">GRR</a>&nbsp;&nbsp;<a href="http://intranet.nogales.borisch.local/getlocks/">NOG</a>
 <h2>WHO'S IN MY FILE?! (<?php echo $PFLOC;?> filePro)</h2>
 Extra New and Improved- Now safe for children! (but only the really smart ones)
 <br>
